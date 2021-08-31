@@ -5,8 +5,10 @@ Materia **Objetos 1**
 
 ![foto](minnie.jpg)
 
+Tengo 27 años, vivo en Castelar
+
 Los lugares donde voy son:
 * la facultad
-* el club
-* el parque 
+* el gimnasio 
+* el trabajo
   

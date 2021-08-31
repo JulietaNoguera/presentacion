@@ -3,7 +3,7 @@
 
 Materia **Objetos 1**
 
-![foto](images.jpg)
+![foto](minnie.jpg)
 
 Los lugares donde voy son:
 * la facultad
